@@ -45,7 +45,7 @@ Concerns:
 
 ---
 
-## **2nd week**
+## **1sr week**
 
 ### **Linear regression algorithm**
  notation used involves 
@@ -56,3 +56,5 @@ Concerns:
 small hint x's and y's are both chosen from the features of the training dataset, simply by separating them features that will avaliable in the test data or x's and features that needs to be predicted or y's
 
 the workflow involves feeding a training set of data to learning algorithm which in turn returns a function which when given the x's returns the y's, this function is also known as the hupothesis
+
+ 
